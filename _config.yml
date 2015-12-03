@@ -2,6 +2,7 @@ name: HcE Grid Test
 favicon: null
 layout_spectrum: 0.5900324303656816
 typography_spectrum: 0.6292786484118551
+title: HC testing Grid
 cta:
   domain: null
   bucket: null
