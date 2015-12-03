@@ -1,0 +1,28 @@
+name: HcE Grid Test
+favicon: null
+layout_spectrum: 0.5900324303656816
+typography_spectrum: 0.6292786484118551
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.8601870932616293
+  lightness: 0.3124861887190491
+  saturation: 0.2735160533338785
+  rhythmicContrast: 0.004685989348217845
+purpose: []
