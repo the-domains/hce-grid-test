@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[HcE Grid Test]]></title>
+        <description><![CDATA[HcE Grid Test]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 03 Dec 2015 19:53:01 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hans-Christian Egtvedt]]></title>
+            <description><![CDATA[<article><h1>Hans-Christian Egtvedt</h1><p>I recently bought a Dual USB Car Cigarette Powered Charger from your well known gadget store in China. The specifications was spot on for what I wanted, two USB ports that could deliver at least 1 amp per port. Actually labeling states 1 A + 2.1 A.</p><img src="https://www.egtvedt.no/wp-content/uploads/2012/08/brandbukampen-anders.jpg"></article>]]></description>
+            <link>https://www.egtvedt.no/</link>
+            <guid isPermaLink="false">59e65b51-88db-42f0-9f41-2a1ca1c5460a</guid>
+            <pubDate>Thu, 03 Dec 2015 19:53:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
